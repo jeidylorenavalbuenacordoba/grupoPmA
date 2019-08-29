@@ -48,8 +48,9 @@ body{
     float: left;
 }
 #imagen img {
+    width: 300px;
     margin: 0 auto;
-    display: block;
+    display: block;   
 }
 #datos{
   padding-left: 50px;
@@ -91,6 +92,9 @@ body{
 #compras img{
     width: 150px;
     padding: 30px;
+}
+.botones{
+    margin: 0 auto;
 }
 /*------- ESTILOS FOOTER ----*/
 #footer{
